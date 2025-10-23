@@ -1,0 +1,5 @@
+{
+  "name": "Conversation Starter AI",
+  "description": "An application to help users start conversations. Users provide information about themselves, the context, and their audience, and the AI suggests opening lines, provides analysis, and warns about potential misinterpretations.",
+  "requestFramePermissions": []
+}
